@@ -1,11 +1,11 @@
 # Data files (keep these local only)
-*.csv
-*.xlsx
+# *.csv
+# *.xlsx
 
 # System junk
 .DS_Store
 __pycache__/
 
 # Output/Notes
-*.pdf
-*.docx
+# *.pdf
+# *.docx
